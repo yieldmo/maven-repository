@@ -2,10 +2,10 @@
 <metadata>
   <groupId>ym</groupId>
   <artifactId>ymsdk</artifactId>
-  <version>4.1.1</version>
+  <version>4.1.2</version>
   <versioning>
-    <latest>4.1.1</latest>
-    <release>4.1.1</release>
+    <latest>4.1.2</latest>
+    <release>4.1.2</release>
     <versions>
       <version>2.3.4</version>
       <version>3.0.0</version>
@@ -18,7 +18,8 @@
       <version>4.0.0</version>
       <version>4.1.0</version>
       <version>4.1.1</version>
+      <version>4.1.2</version>
     </versions>
-    <lastUpdated>20170109184500</lastUpdated>
+    <lastUpdated>20170202144500</lastUpdated>
   </versioning>
 </metadata>
